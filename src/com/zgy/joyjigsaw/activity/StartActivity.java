@@ -18,11 +18,6 @@ import com.zgy.joyjigsaw.R;
  */
 public class StartActivity extends Activity {
 
-	
-	private ImageView imgLocal;
-	private ImageView imgWeb;
-	
-	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
